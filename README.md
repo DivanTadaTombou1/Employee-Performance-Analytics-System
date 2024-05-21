@@ -14,7 +14,7 @@ The HR department is struggling with the following issues:
    - There is a lack of a unified system to calculate and compare performance scores across departments. This inconsistency makes it difficult to identify high performers and address underperformance.
 
 2. **Unbalanced Salary Structures:**
-   - Salary distributions across departments are not well-analyzed, leading to potential inequities and dissatisfaction among employees.
+   - Salary distributions across departments are not well-analysed, leading to potential inequities and dissatisfaction among employees.
 
 3. **High Employee Turnover:**
    - Certain projects and departments experience higher turnover rates, but the underlying reasons are not clearly understood. This lack of insight hinders the HR department's ability to implement effective retention strategies.
@@ -30,12 +30,6 @@ The primary goal of this project is to develop a comprehensive SQL-based analyti
 **Key Features:**
 
 - **Tables:** Employees, Departments, Projects, PerformanceReviews, Salaries
-- 
-- **Queries:**
-  - Calculate average performance score for each department.
-  - Find the top 5 performers in the company.
-  - Compare salary distribution across departments.
-  - Determine projects with the highest employee turnover.
 
 By implementing this Employee Performance Analytics System, the HR department will be equipped with the necessary tools and insights to enhance performance evaluation processes, create fair salary structures, and reduce employee turnover, ultimately leading to a more efficient and motivated workforce.
 
