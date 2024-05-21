@@ -41,8 +41,6 @@ By implementing this Employee Performance Analytics System, the HR department wi
 
 ```sql
 
--- Creating complex and advanced SQL query for Employee Performance Analytics
-
 WITH 
 -- CTE to calculate average performance score for each employee along with additional stats
 EmployeeAverageScores AS (
